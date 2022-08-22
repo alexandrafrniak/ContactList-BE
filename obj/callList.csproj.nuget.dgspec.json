@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\numberlist\\callList\\callList\\callList.csproj": {}
+    "E:\\numberlist\\calllist\\callList\\callList.csproj": {}
   },
   "projects": {
-    "E:\\numberlist\\callList\\callList\\callList.csproj": {
+    "E:\\numberlist\\calllist\\callList\\callList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\numberlist\\callList\\callList\\callList.csproj",
+        "projectUniqueName": "E:\\numberlist\\calllist\\callList\\callList.csproj",
         "projectName": "callList",
-        "projectPath": "E:\\numberlist\\callList\\callList\\callList.csproj",
+        "projectPath": "E:\\numberlist\\calllist\\callList\\callList.csproj",
         "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "E:\\numberlist\\callList\\callList\\obj\\",
+        "outputPath": "E:\\numberlist\\calllist\\callList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

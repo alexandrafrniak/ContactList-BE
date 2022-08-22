@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EnYLa8433u3e9iyoI0gUTnC9Jt3BRhGeiKJOP7smLCQRFblNIH7mdolZF8brQMDVltF1eYHChTOB6p/B/cO8Kg==",
+  "dgSpecHash": "AA/2hzJmv/+gc+BTT4ut/SsPsZOlLP46NeWajUXQQtmDIpKe2CTLvo+qoF6pWjLFBrU0V9Q17gLNrwUFJmrCqA==",
   "success": true,
-  "projectFilePath": "E:\\numberlist\\callList\\callList\\callList.csproj",
+  "projectFilePath": "E:\\numberlist\\calllist\\callList\\callList.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexa\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\alexa\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.8\\microsoft.data.sqlite.core.6.0.8.nupkg.sha512",
